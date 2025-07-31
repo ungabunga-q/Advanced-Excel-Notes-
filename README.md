@@ -341,5 +341,3 @@ Microsoft Excel is a powerful spreadsheet software developed by Microsoft. It en
 
 ---
 
-> *DeveLearn Technologies Data Science Institute*  
-> For more information: www.develearn.in | contact@develearn.in
